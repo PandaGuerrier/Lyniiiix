@@ -9,7 +9,9 @@
 
 ## Socials 👋
 <p>
+   <a href='https://twitter.com/Lyniiiix' target='_blank'> 
    <img alt="Twitter" src="https://img.shields.io/badge/Lyniiiix%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+   </a>
 </p>
 
 ## 📚
