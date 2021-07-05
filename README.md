@@ -1,5 +1,5 @@
 
-[![Header](https://pbs.twimg.com/profile_banners/1096553171516878849/1618972861/1500x500 "Header")](https://twitter/com/Lyniiiix)
+[![Header](https://media.discordapp.net/attachments/830251483823079484/861644633384550450/a88ac73a8a52026ed214dd5dcd57b83c.jpg "Header")](https://twitter/com/Lyniiiix)
 
 ## Hi There ! 👋
 <p>
